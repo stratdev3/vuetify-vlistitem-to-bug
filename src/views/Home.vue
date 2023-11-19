@@ -20,7 +20,7 @@
                 routes are compared with only their <code>path</code> excluding <code>query</code>.
             </li>
         </ol>
-        <p class="mt-4"><strong>Reproduce step </strong> : in the example bellow, only the <em>Current</em> item should be active, not all.</p>
+        <p class="mt-4"><strong>Reproduce step </strong> : in the example bellow, only the <em>Current</em> item should have active class, not all.</p>
 
         <!-- CODE -->
         <v-row>
